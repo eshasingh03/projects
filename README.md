@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esha Singh</h1>
 <h3 align="center">I'm passionate about data and it’s potential to impact business</h3>
 
-- 🔭 Certifications **Data Analysis with Python, SQL, Advance Excel**
+- 🔭 Certifications include **Data Analysis with Python, SQL, Advance Excel**
 
 - 🌱 I’m currently pursuing **Masters in Data Science and Analytics with AI**
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **SQL, Python, Machine Learning, Power BI**
 
 - 📫 How to reach me **ajsingh030303@gmail.com**
+
+- 📄 Know about my experience [https://drive.google.com/file/d/1Cs08FzP__wUTyj2v1t0qDQcdeBaYaWht/view?usp=sharing](https://drive.google.com/file/d/1Cs08FzP__wUTyj2v1t0qDQcdeBaYaWht/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
